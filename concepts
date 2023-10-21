@@ -1,0 +1,3 @@
+O modelo relacional consiste no relacionamento de tabelas.
+As tabelas utilizam chaves para se relacionarem.
+As chaves podem ser PK, FK, IR.
